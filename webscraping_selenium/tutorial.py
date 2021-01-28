@@ -8,9 +8,14 @@ import time
 
 PATH = "C:\Program Files (x86)\chromedriver.exe" #path specifies the path of the chrome webdriver used with selenium
 
+#Scripting
+
 driver=webdriver.Chrome(PATH) #the driver will now run the chrome webdriver
 driver.get("https://techwithtim.net")#by using get we specify the 
 print(driver.title)
+
+
+#locating Element form Html
 
 search=driver.find_element_by_name("s")#accessing the search bar
 search.send_keys("test") #in search bar it will return all the results with keyWord-> test

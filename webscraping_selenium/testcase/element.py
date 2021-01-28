@@ -14,3 +14,4 @@ class BasePageElement(object):
             lambda driver:driver.find_element_by_name(self.locator))#wait for the element to exist on the page
         element= driver.find_element_by_name(self.locator)
         return element.get_attribute("value") #returns the value we are providing the get method
+

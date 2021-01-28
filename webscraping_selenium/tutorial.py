@@ -8,7 +8,7 @@ import time
 
 PATH = "C:\Program Files (x86)\chromedriver.exe" #path specifies the path of the chrome webdriver used with selenium
 
-#Scripting
+#Scraping Intro
 
 driver=webdriver.Chrome(PATH) #the driver will now run the chrome webdriver
 driver.get("https://techwithtim.net")#by using get we specify the 

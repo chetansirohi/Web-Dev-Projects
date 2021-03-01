@@ -7,7 +7,7 @@ user_input=input("Enter What do you want to Search : ")
 url=requests.get('https://www.google.com/search?q='+user_input)
 # print(url.content)
 
-save_path=r'/Users/chetan.sirohi/PycharmProjects/sample/googlescript'
+save_path='Directory where you want to save the html file'
 compelte_path=os.path.join(save_path,user_input+'.html')
 
 # with open(compelte_path,"w") as f:

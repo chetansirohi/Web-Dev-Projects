@@ -1,0 +1,242 @@
+[
+    {
+        "Title": "Laufen 8189444001041 Washbasn Wht 0 Tap",
+        "Link": "https://www.afsupply.com/laufen-8189444001041-washbasn-wht-0-tap.html",
+        "Product Details": [
+            {
+                "SKU": "8189444001041",
+                "Availibility": "In Stock.",
+                "Retail Price": "$1,250.00",
+                "Special Price": "$1,000.00"
+            }
+        ]
+    },
+    {
+        "Title": "Laufen 8109014001091 Dot Wb Wht 0 Tap",
+        "Link": "https://www.afsupply.com/laufen-8109014001091-dot-wb-wht-0-tap.html",
+        "Product Details": [
+            {
+                "SKU": "8109014001091",
+                "Availibility": "In Stock.",
+                "Retail Price": "$1,850.00",
+                "Special Price": "$924.99"
+            }
+        ]
+    },
+    {
+        "Title": "Laufen 8109014001041 Dot Wb Wht 1 Tap",
+        "Link": "https://www.afsupply.com/laufen-8109014001041-dot-wb-wht-1-tap.html",
+        "Product Details": [
+            {
+                "SKU": "8109014001041",
+                "Availibility": "In Stock.",
+                "Retail Price": "$1,850.00",
+                "Special Price": "$924.99"
+            }
+        ]
+    },
+    {
+        "Title": "Laufen 8109724001091 One Wb Wht 0 Tap",
+        "Link": "https://www.afsupply.com/laufen-8109724001091-one-wb-wht-0-tap.html",
+        "Product Details": [
+            {
+                "SKU": "8109724001091",
+                "Availibility": "In Stock.",
+                "Retail Price": "$2,250.00",
+                "Special Price": "$1,124.99"
+            }
+        ]
+    },
+    {
+        "Title": "Laufen 8.1155.3.017.104.1 Lfe 8115530171041 Mimo Sym Wb Blk 1 Tap",
+        "Link": "https://www.afsupply.com/laufen-8-1155-3-017-104-1-lfe-8115530171041-mimo-sym-wb-blk-1-tap.html",
+        "Product Details": [
+            {
+                "SKU": "8115530171041",
+                "Availibility": "In Stock.",
+                "Retail Price": "$750.00",
+                "Special Price": "$371.24"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 0454800060 Washbasin 80Cm Vero White With Tap Hole With Out Tap Hole",
+        "Link": "https://www.afsupply.com/duravit-0454800060-washbasin-80cm-vero-white-with-tap-hole-with-out-tap-hole.html",
+        "Product Details": [
+            {
+                "SKU": "0454800060",
+                "Availibility": "In Stock.",
+                "Retail Price": "$890.00",
+                "Special Price": "$667.50"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 0454120060 Washbasin 120Cm Vero White With Tap Hole With Out Tap Hole",
+        "Link": "https://www.afsupply.com/duravit-0454120060-washbasin-120cm-vero-white-with-tap-hole-with-out-tap-hole.html",
+        "Product Details": [
+            {
+                "SKU": "0454120060",
+                "Availibility": "In Stock.",
+                "Retail Price": "$1,535.00",
+                "Special Price": "$1,151.25"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 0454100030 Washbasin 100Cm Vero White With Tap Hole 3 Tap Hole",
+        "Link": "https://www.afsupply.com/duravit-0454100030-washbasin-100cm-vero-white-with-tap-hole-3-tap-hole.html",
+        "Product Details": [
+            {
+                "SKU": "0454100030",
+                "Availibility": "In Stock.",
+                "Retail Price": "$1,010.00",
+                "Special Price": "$757.50"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 0454100025 Washbasin 100Cm Vero White With Tap Hole 3 Tap Hole, Grounded",
+        "Link": "https://www.afsupply.com/duravit-0454100025-washbasin-100cm-vero-white-with-tap-hole-3-tap-hole-grounded.html",
+        "Product Details": [
+            {
+                "SKU": "0454100025",
+                "Availibility": "In Stock.",
+                "Retail Price": "$1,060.00",
+                "Special Price": "$795.00"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 0454800025 Washbasin 80Cm Vero White With Tap Hole 3 Tap Hole, Grounded",
+        "Link": "https://www.afsupply.com/duravit-0454800025-washbasin-80cm-vero-white-with-tap-hole-3-tap-hole-grounded.html",
+        "Product Details": [
+            {
+                "SKU": "0454800025",
+                "Availibility": "In Stock.",
+                "Retail Price": "$960.00",
+                "Special Price": "$720.00"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 03006500301 Starck 3 Wash Basin With Overflow And Tap Platform",
+        "Link": "https://www.afsupply.com/redtaperestrict/duravit-03006500301-starck-3-wash-basin-with-overflow-and-tap-platform.html",
+        "Product Details": [
+            {
+                "SKU": "03006500301",
+                "Availibility": "In Stock.",
+                "Retail Price": "$440.00",
+                "Special Price": "$325.41"
+            }
+        ]
+    },
+    {
+        "Title": "Wal-rich 2820010, 2 inch Ips Style 90 Gas Meter Compression Dresser Coupling For Steel Pipe With Tap",
+        "Link": "https://www.afsupply.com/wal-rich-2820010-2-inch-ips-style-90-gas-meter-compression-dresser-coupling-for-steel-pipe-with-tap.html",
+        "Product Details": [
+            {
+                "SKU": "DRET90LC20",
+                "Availibility": "In Stock.",
+                "Retail Price": "$340.63",
+                "Special Price": "$255.47"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 04116500001 Starck 2 Wash Basin With Overflow And Tap Platform",
+        "Link": "https://www.afsupply.com/coupons/duravit-04116500001-starck-2-wash-basin-with-overflow-and-tap-platform.html",
+        "Product Details": [
+            {
+                "SKU": "04116500001",
+                "Availibility": "In Stock.",
+                "Retail Price": "$660.00",
+                "Special Price": "$323.42"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 2806302092 Urinal Durastyle With Tap Hole Jet Nozzle White, Concealed Inlet, With Out Fly",
+        "Link": "https://www.afsupply.com/duravit-2806302092-urinal-durastyle-with-tap-hole-jet-nozzle-white-concealed-inlet-with-out-fly.html",
+        "Product Details": [
+            {
+                "SKU": "2806302092",
+                "Availibility": "In Stock.",
+                "Retail Price": "$490.00",
+                "Special Price": "$367.50"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 04388000301 Washbasin 31 1/2 inch 1930 white, with 3 tap holes WonderGliss",
+        "Link": "https://www.afsupply.com/redtaperestrict/duravit-04388000301-washbasin-31-1-2-inch-1930-white-with-3-tap-holes-wondergliss.html",
+        "Product Details": [
+            {
+                "SKU": "04388000301",
+                "Availibility": "In Stock.",
+                "Retail Price": "$1,260.00",
+                "Special Price": "$931.89"
+            }
+        ]
+    },
+    {
+        "Title": "Dornbracht 17500892-060010 Tara Pillar Tap In Platinum Matte",
+        "Link": "https://www.afsupply.com/dornbracht-17500892-060010-tara-pillar-tap-in-platinum-matte.html",
+        "Product Details": [
+            {
+                "SKU": "1750089206",
+                "Availibility": "In Stock.",
+                "Retail Price": "$949.70",
+                "Special Price": "$759.76"
+            }
+        ]
+    },
+    {
+        "Title": "Dornbracht 17500885-060010 Tara Logic Pillar Tap In Platinum Matte",
+        "Link": "https://www.afsupply.com/dornbracht-17500885-060010-tara-logic-pillar-tap-in-platinum-matte.html",
+        "Product Details": [
+            {
+                "SKU": "17500885060010",
+                "Availibility": "In Stock.",
+                "Retail Price": "$811.40",
+                "Special Price": "$649.12"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit Lm780500000 Mirror With Tap Hole Lighting 700X600X33Mm",
+        "Link": "https://www.afsupply.com/duravit-lm780500000-mirror-with-tap-hole-lighting-700x600x33mm.html",
+        "Product Details": [
+            {
+                "SKU": "LM780500000",
+                "Availibility": "In Stock.",
+                "Retail Price": "$860.00",
+                "Special Price": "$645.00"
+            }
+        ]
+    },
+    {
+        "Title": "Lefroy Brooks RH1172-CP Belle Aire Wall Mounted 3 Hole Bath Filler Tap Chrome",
+        "Link": "https://www.afsupply.com/lefroy-brooks-rh1172-cp-belle-aire-wall-mounted-3-hole-bath-filler-tap-chrome.html",
+        "Product Details": [
+            {
+                "SKU": "RH1172CP",
+                "Availibility": "In Stock.",
+                "Retail Price": "$2,616.00",
+                "Special Price": "$2,092.80"
+            }
+        ]
+    },
+    {
+        "Title": "Duravit 0464650000 Darling Semi-Recessed Basin 25 5/8 Inch with 1 Tap Holes Punched in White",
+        "Link": "https://www.afsupply.com/duravit-0464650000-darling-semi-recessed-basin-25-5-8-inch-with-1-tap-holes-punched-in-white.html",
+        "Product Details": [
+            {
+                "SKU": "0464650000",
+                "Availibility": "In Stock.",
+                "Retail Price": "$425.00",
+                "Special Price": "$318.75"
+            }
+        ]
+    }
+]

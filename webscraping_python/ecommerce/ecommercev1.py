@@ -3,7 +3,7 @@ import os.path
 import json
 from lxml import html
 
-def processingEngine(url,no_of_results,output):
+def processingEngine(url,no_of_results,output): #make sure to inspect the xpaths at different websites
     product = html.fromstring(url.content)
     product_title = product.xpath('//strong[@class="product name product-item-name"]//a/text()')
     product_link = product.xpath('//a[@class="product-item-link"]/@href')
@@ -23,7 +23,7 @@ def processingEngine(url,no_of_results,output):
 
         product_next_page=product.xpath('//li[@class="item pages-item-next"]/a[@class="action  next"]/@href ')
         if product_next_page and len(output) < no_of_results:
-            url1 = requests.get("https://www.afsupply.com/catalogsearch/result/?q="+product_next_page[0])
+            url1 = requests.get("URL"+product_next_page[0])
             processingEngine(url1, no_of_results, output)
         elif len(output)>no_of_results:
             pass
@@ -32,7 +32,7 @@ def processingEngine(url,no_of_results,output):
             print("Printing available results",len(output))
 
 def inputEngine(user_input,no_of_results,outpput):
-    url=requests.get("https://www.afsupply.com/catalogsearch/result/?q="+user_input)
+    url=requests.get("URL"+user_input)
     processingEngine(url,no_of_results,outpput)
 
 user_input=input("Enter the Product you Want : ")
@@ -47,7 +47,7 @@ with open('inventory.txt','w') as f:
 
 
 
-# save_path=r'/Users/chetan.sirohi/PycharmProjects/sample/ecommerce'
+# save_path=r'Directory where you want to store the html file'
 # complete_path=os.path.join(save_path,user_input+'.html')
 #
 # with open(complete_path,'w') as f:

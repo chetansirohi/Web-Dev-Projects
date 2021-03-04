@@ -28,7 +28,7 @@ def processingEngine(url,no_of_results,output):
 
     product_next_page = pdt_cntnt.xpath('//li[@class="item pages-item-next"]/a[@class="action  next"]/@href ')
     if product_next_page and len(output) < no_of_results:
-        url1 = requests.get("https://www.afsupply.com/catalogsearch/result/?q=" + product_next_page[0])
+        url1 = requests.get("URL" + product_next_page[0])
         processingEngine(url1, no_of_results, output)
     elif len(output) > no_of_results:
         pass
@@ -38,7 +38,7 @@ def processingEngine(url,no_of_results,output):
 
 def inputEngine(user_input,no_of_results):
     output=[]
-    url=requests.get("https://www.afsupply.com/catalogsearch/result/?q="+user_input)
+    url=requests.get("URL"+user_input)
     processingEngine(url,no_of_results,output)
     return output
 

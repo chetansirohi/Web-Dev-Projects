@@ -51,7 +51,7 @@ def productSims(url,output):
     with open('ecom2.txt','w') as f:
         f.write(json_obj)
 
-url=requests.get("https://www.probikekit.com/sports-footwear/lake-cx176-road-shoes-navy-blue-white/12044131.html")
+url=requests.get("URL")
 output=[]
 productSims(url,output)
 

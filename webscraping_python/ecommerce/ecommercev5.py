@@ -2,20 +2,20 @@ import json
 import requests
 from lxml import html
 
-url='https://www.canadiantire.ca/en/search-results.html?q=cycle'
+url='URL'
 agent = {"User-Agent":'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36'}
 page = requests.get(url, headers=agent)
 # print(page.content)
 
-api_get=requests.get('https://api.canadiantire.ca/search/api/v0/product/en/?site=ct;store=0452;format=json;count=36;q=cycle').json()
+api_get=requests.get('api').json()
 output=[]
 for i in api_get['results']:
     output.append(i["field"])
-    # output.append({"product id":i['prod-id'],"Product sku":i["sku-id"],"url":'https://www.canadiantire.ca'+i["short-pdp-url"]})
+    # output.append({"product id":i['prod-id'],"Product sku":i["sku-id"],"url":'main search url'+i["short-pdp-url"]})
 
 real_op=[]
 for i in output:
-    real_op.append({"Product Name":i['prod-name'],"SKU":i["sku-id"],"URL":'https://www.canadiantire.ca'+i["short-pdp-url"]})
+    real_op.append({"Product Name":i['prod-name'],"SKU":i["sku-id"],"URL":'main search url'+i["short-pdp-url"]})
 
 # print(real_op)
 
